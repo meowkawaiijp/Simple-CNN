@@ -5,7 +5,7 @@
 ## インストール
 
 1. ```bash
- git clone git@github.com:meowkawaiijp/Simple-CNN.git
+  git clone git@github.com:meowkawaiijp/Simple-CNN.git
  ```
 2. 必要なライブラリをインストールします。
 3. モデルのトレーニングを実行します。

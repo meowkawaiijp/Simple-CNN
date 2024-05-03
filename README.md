@@ -4,7 +4,8 @@
 
 ## インストール
 
-1. ```bash
+1.
+```bash
   git clone git@github.com:meowkawaiijp/Simple-CNN.git
  ```
 2. 必要なライブラリをインストールします。
